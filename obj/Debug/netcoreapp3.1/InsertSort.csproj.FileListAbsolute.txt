@@ -1,0 +1,13 @@
+C:\Users\erbson.lavras\Documents\Developer\C#\Algoritimos\InsertSort\InsertSort\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.exe
+C:\Users\erbson.lavras\Documents\Developer\C#\Algoritimos\InsertSort\InsertSort\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.deps.json
+C:\Users\erbson.lavras\Documents\Developer\C#\Algoritimos\InsertSort\InsertSort\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.runtimeconfig.json
+C:\Users\erbson.lavras\Documents\Developer\C#\Algoritimos\InsertSort\InsertSort\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.runtimeconfig.dev.json
+C:\Users\erbson.lavras\Documents\Developer\C#\Algoritimos\InsertSort\InsertSort\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.dll
+C:\Users\erbson.lavras\Documents\Developer\C#\Algoritimos\InsertSort\InsertSort\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.pdb
+C:\Users\erbson.lavras\Documents\Developer\C#\Algoritimos\InsertSort\InsertSort\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.csprojAssemblyReference.cache
+C:\Users\erbson.lavras\Documents\Developer\C#\Algoritimos\InsertSort\InsertSort\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.AssemblyInfoInputs.cache
+C:\Users\erbson.lavras\Documents\Developer\C#\Algoritimos\InsertSort\InsertSort\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.AssemblyInfo.cs
+C:\Users\erbson.lavras\Documents\Developer\C#\Algoritimos\InsertSort\InsertSort\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.csproj.CoreCompileInputs.cache
+C:\Users\erbson.lavras\Documents\Developer\C#\Algoritimos\InsertSort\InsertSort\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.dll
+C:\Users\erbson.lavras\Documents\Developer\C#\Algoritimos\InsertSort\InsertSort\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.pdb
+C:\Users\erbson.lavras\Documents\Developer\C#\Algoritimos\InsertSort\InsertSort\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.genruntimeconfig.cache
